@@ -119,3 +119,18 @@ main{
         height: 100%;
     }
 }
+
+footer{
+    position: fixed;
+    left: 0;
+    color:$White;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    a{
+        color:$White;
+    }
+    a:visited{
+        color:$White;
+    }
+}

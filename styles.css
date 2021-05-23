@@ -101,4 +101,21 @@ main section {
   width: 50%;
   height: 100%;
 }
+
+footer {
+  position: fixed;
+  left: 0;
+  color: white;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+footer a {
+  color: white;
+}
+
+footer a:visited {
+  color: white;
+}
 /*# sourceMappingURL=styles.css.map */
